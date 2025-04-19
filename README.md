@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Adrian
 
-<!--
-**filipadrian90/filipadrian90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Software QA Tester** with full system development lifecycle experience — from planning to execution.
 
-Here are some ideas to get you started:
+🛠️ Hands-on technology professional experienced in:
+- Designing and implementing test plans, test cases, and test scripts
+- Working in complex, fast-paced, project-based environments
+- QA automation, software development, and user-acceptance testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education:
+- **Bachelor's and Master's degrees** in Computer Science  
+  from the *Faculty of Automatic Control*, **Politehnica University of Bucharest**
+
+📜 Certifications:
+- **ISTQB Test Manager**
+
+💡 Motto: *“The greatest failure is not trying at all”*
+
+---
+
+## 📌 Areas of Interest
+
+- ✅ UI & API Test Automation
+- 📈 Performance testing
+- ⚙️ CI/CD & DevOps integration 
+- 🧱 Backend Development 
+- 📊 Test Strategy, Reporting, and Coverage
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn] https://www.linkedin.com/in/adrian-filip/
+- [Email] adrianfilip10@yahoo.com
